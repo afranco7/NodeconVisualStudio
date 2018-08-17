@@ -1,0 +1,25 @@
+{
+  "name": "protractor-visual-studio",
+  "version": "0.0.0",
+  "description": "ProtractorVisualStudio",
+  "main": "app.js",
+  "author": "alejo",
+  "scripts": {
+    "test": "protractor protractor.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afranco7/NodeconVisualStudio.git"
+  },
+  "keywords": [
+    "protractor"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afranco7/NodeconVisualStudio/issues"
+  },
+  "homepage": "https://github.com/afranco7/NodeconVisualStudio#readme",
+  "dependencies": {
+    "protractor": "^5.4.0"
+  }
+}
